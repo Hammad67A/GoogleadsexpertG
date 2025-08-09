@@ -1,0 +1,76 @@
+
+                      
+                      
+                      
+                      
+
+                      
+                      
+                      <h5>CSS</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 80%;"></div>
+                        <div class="skill-percent">80%</div>
+                      </div>
+                    </div>
+                  </div>
+
+
+                  <div class="skill-item padd-15">
+                    <h5>JS</h5>
+                    <div class="progress">
+                      <div class="progress-in" style="width: 60%;"></div>
+                      <div class="skill-percent">60%</div>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                      
+                      
+                      
+                      <div class="skill-item padd-15">
+                        <h5>PHP</h5>
+                        <div class="progress">
+                          <div class="progress-in" style="width: 55%;"></div>
+                          <div class="skill-percent">55%</div>
+                        </div>
+                      </div>
+                    </div>
+
+
+                      <div class="skill-item padd-15">
+                        <h5>Taliwind Css</h5>
+                        <div class="progress">
+                          <div class="progress-in" style="width: 50%;"></div>
+                          <div class="skill-percent">50%</div>
+                        </div>
+                      </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="row">
+                      <div class="service-item">
+                       <div class="service-item-inner">
+                         <div class="icon">
+                           <i class="fa fa-mobile-alt"></i>
+                         </div>
+                         <h4>Web Developer</h4>
+                         <p>Passionate web developer skilled in HTML, CSS, JavaScript, and modern frameworks, creating responsive, user-friendly, and dynamic websites efficiently.</p>
+                       </div>
+                      </div>
+                     
